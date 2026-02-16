@@ -1,0 +1,1 @@
+{"name": "my-express-project","version": "1.0.0","description": "A Node.js project with Express and Swagger","main": "index.js","scripts": {"start": "node index.js"},"dependencies": {"express": "^4.17.1","swagger-ui-express": "^4.1.6"},"devDependencies": {},"keywords": [],"author": "erre0uno","license": "ISC"}
